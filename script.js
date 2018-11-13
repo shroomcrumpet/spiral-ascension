@@ -1,8 +1,8 @@
 
-arr = [];
-let x = 1;
-
 function spiral(n) {
+
+    let arr = [];
+    let x = 1;
 
     for (i = 0; i < n; i++) {
 
